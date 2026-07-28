@@ -39,7 +39,7 @@ const CartItem = ({ onContinueShopping }) => {
 
   const handleCheckout = () => {
     // Implement checkout logic here
-    console.log('Proceeding to checkout...');
+    alert('Coming soon! Checkout functionality is not implemented yet.');
   };
 
   return (
